@@ -3,4 +3,4 @@ gpio==0.3.0
 Pillow==6.2.1
 pytz==2019.3
 slugify==0.0.1
-sqlparse==0.3.0
+sqlparse==0.4.4
